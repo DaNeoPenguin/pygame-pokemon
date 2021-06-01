@@ -1,2 +1,0 @@
-# pygame-pokemon
- PyGAME
